@@ -1,2 +1,9 @@
-# MyDEVrepository
-My first repository for the code for my DEV org
+# SFDX App
+
+## Dev, Build and Test
+
+## Resources
+
+## Description of Files and Directories
+
+## Issues
